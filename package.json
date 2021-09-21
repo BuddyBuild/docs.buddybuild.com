@@ -31,7 +31,7 @@
     "lodash.reject": "^4.6.0",
     "lodash.some": "^4.6.0",
     "now": "^7.2.4",
-    "nth-check": "^1.0.1",
+    "nth-check": "^2.0.1",
     "process-nextick-args": "^1.0.7",
     "readable-stream": "^2.2.9",
     "safe-buffer": "^5.0.1",
